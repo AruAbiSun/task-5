@@ -1,0 +1,1 @@
+this task i iterate JSON in for in, for of, for each loop.
